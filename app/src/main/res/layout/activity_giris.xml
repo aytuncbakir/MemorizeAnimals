@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tahta"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/gokyuzu"
+    tools:context=".GirisSayfasi">
+
+    <Button
+        android:id="@+id/otherApp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="3dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:textSize="20sp"
+        android:background="@drawable/custom_button_tasarim_selector5"
+        android:textColor="@color/colorWhite"
+        android:text="A" />
+
+    <Button
+        android:id="@+id/rateApp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="5dp"
+        android:layout_toEndOf="@+id/otherApp"
+        android:layout_toRightOf="@+id/otherApp"
+        android:textSize="20sp"
+        android:background="@drawable/custom_button_tasarim_selector5"
+        android:textColor="@color/colorWhite"
+        android:text="R" />
+
+    <Button
+        android:id="@+id/settingApp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/rateApp"
+        android:layout_marginRight="2dp"
+        android:layout_marginTop="5dp"
+        android:textSize="20sp"
+        android:background="@drawable/custom_button_tasarim_selector5"
+        android:textColor="@color/colorWhite"
+        android:text="S" />
+
+    <Button
+        android:id="@+id/langApp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignBaseline="@+id/rateApp"
+        android:layout_alignBottom="@+id/rateApp"
+        android:layout_marginEnd="2dp"
+        android:layout_marginRight="3dp"
+        android:layout_toLeftOf="@+id/settingApp"
+        android:layout_toStartOf="@+id/settingApp"
+        android:background="@drawable/custom_button_tasarim_selector5"
+        android:text="L"
+        android:textColor="@color/colorWhite"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:layout_width="270dp"
+        android:layout_height="320dp"
+        android:gravity="center"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/custom_giris_tasarim"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout">
+
+        <TextView
+            android:id="@+id/giris_baslik"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/giris_baslik_text"
+            android:gravity="center"
+            android:text=""
+            android:layout_margin="3dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/colorWhite"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/veryeasy"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:text="Very Easy"
+            android:textSize="14sp"
+            android:background="@drawable/custom_button_tasarim_selector1"
+            android:textColor="@color/colorWhite" />
+
+        <Button
+            android:id="@+id/easy"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:text="Easy"
+            android:textSize="14sp"
+            android:background="@drawable/custom_button_tasarim_selector2"
+            android:textColor="@color/colorWhite"/>
+
+        <Button
+            android:id="@+id/normal"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:background="@drawable/custom_button_tasarim_selector3"
+            android:text="Normal"
+            android:textSize="14sp"
+            android:textColor="@color/colorWhite" />
+
+        <Button
+            android:id="@+id/hard"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/custom_button_tasarim_selector4"
+            android:text="Hard"
+            android:textSize="14sp"
+            android:textColor="@color/colorWhite" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@mipmap/giris_hayvanlar"
+        android:layout_alignParentBottom="true"
+   />
+
+</RelativeLayout>
+
+

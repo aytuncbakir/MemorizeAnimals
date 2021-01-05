@@ -1,0 +1,1211 @@
+<resources>
+    <string name="app_name">Memorise Game</string>
+    <string name="tebrik">Excellent</string>
+
+	<string name="game_title_english">
+
+          <![CDATA[
+          			 <p style=text-align:center><a><font color=#FFFFFF>Animals</font></a></p>
+                     <a><font color=#FFFFFF>MemoryGame</font></a>
+                ]]>
+      </string>
+
+
+	<string name="game_title_finnish">
+
+          <![CDATA[
+          			 <p style=text-align:center><a><font color=#FFFFFF>Eläimet</font></a></p>
+                     <a><font color=#FFFFFF>Muistipeli</font></a>
+                ]]>
+      </string>
+
+	<string name="game_title_german">
+
+          <![CDATA[
+         			 <p style=text-align:center><a><font color=#FFFFFF>Tiere</font></a></p>
+                     <a><font color=#FFFFFF>Memory-Spiel</font></a>
+                ]]>
+      </string>
+
+	<string name="game_title_turkish">
+
+          <![CDATA[
+          			 <p style=text-align:center><a><font color=#FFFFFF>Hayvanlar</font></a></p>
+                     <a><font color=#FFFFFF>Hafiza Oyunu</font></a>
+                ]]>
+      </string>
+
+
+	<string name="game_title_greek">
+
+          <![CDATA[
+          			 <p style=text-align:center><a><font color=#FFFFFF>Τωνζώων</font></a></p>
+                     <a><font color=#FFFFFF>Παιχνίδι μνήμης</font></a>
+                ]]>
+      </string>
+
+
+	<string name="game_title_italian">
+
+          <![CDATA[
+          			 <p style=text-align:center><a><font color=#FFFFFF>Animali</font></a></p>
+                     <a><font color=#FFFFFF>GiocoDiMemoria</font></a>
+                ]]>
+      </string>
+
+	<string name="game_title_spanish">
+
+          <![CDATA[
+          			 <p style=text-align:center><a><font color=#FFFFFF>Animales</font></a></p>
+                     <a><font color=#FFFFFF>JuegoDeMemoria</font></a>
+                ]]>
+      </string>
+
+	<string name="game_title_russian">
+
+          <![CDATA[
+          			 <p style=text-align:center><a><font color=#FFFFFF>животные</font></a></p>
+                     <a><font color=#FFFFFF>Игра на запоминание</font></a>
+                ]]>
+      </string>
+
+
+	<string name="game_title_chinese">
+
+          <![CDATA[
+          			 <p style=text-align:center><a><font color=#FFFFFF>动物</font></a></p>
+                     <a><font color=#FFFFFF>记忆游戏</font></a>
+                ]]>
+      </string>
+
+
+	<string-array name="animals_greek">
+		<item>Μυρμήγκι</item>
+		<item>Αντιλόπη</item>
+		<item>Ανακόνδας</item>
+		<item>Μυστήριο</item>
+		<item>Angus</item>
+		<item>Μέλισσα</item>
+		<item>Πεταλούδα</item>
+		<item>Βόνασος</item>
+		<item>Πουλί</item>
+		<item>Νυχτερίδα</item>
+		<item>Αρκούδα</item>
+		<item>κάστορας</item>
+		<item>Ταύρος</item>
+		<item>Καναρίνι</item>
+		<item>Γατόπαρδος</item>
+		<item>Νεοσσός</item>
+		<item>Χαμαιλέοντας</item>
+		<item>Κοράκι</item>
+		<item>Αγελάδα</item>
+		<item>τσακάλι</item>
+		<item>γάτα</item>
+		<item>Χιμπατζής</item>
+		<item>Κοτόπουλο</item>
+		<item>Κάβουρας</item>
+		<item>Κροκόδειλος</item>
+		<item>Ελάφι</item>
+		<item>Γάιδαρος</item>
+		<item>Σκύλος</item>
+		<item>Δελφίνι</item>
+		<item>Περιστέρι</item>
+		<item>Πάπια</item>
+		<item>Ελέφαντας</item>
+		<item>Αετός</item>
+		<item>Ψάρι </item>
+		<item>Βάτραχος</item>
+		<item>Γεράκι</item>
+		<item>Πετώ</item>
+		<item>Αλεπού</item>
+		<item>Ακρίδα</item>
+		<item>Γίδα</item>
+		<item>Χήνα</item>
+		<item>Καμηλοπάρδαλη</item>
+		<item>Γορίλλας</item>
+		<item>Χάμστερ</item>
+		<item>Γεράκι</item>
+		<item>Αλογο</item>
+		<item>Σκατζόχοιρος</item>
+		<item>Ιπποπόταμος</item>
+		<item>Εντομο</item>
+		<item>Impala</item>
+		<item>Iguana</item>
+		<item>Τσακάλι</item>
+		<item>Ιαγουάρος</item>
+		<item>Μέδουσα</item>
+		<item>Καγκουρώ</item>
+		<item>Koala</item>
+		<item>Πασχαλίτσα</item>
+		<item>Αρνάκι</item>
+		<item>Λεοπάρδαλη</item>
+		<item>λιοντάρι</item>
+		<item>Σαύρα </item>
+		<item>Αστακός</item>
+		<item>Σαραντοποδαρούσα</item>
+		<item>Ποντίκι</item>
+		<item>Κουνούπι</item>
+		<item>Πίθηκος</item>
+		<item>κρεατοελιά</item>
+		<item>Μουλάρι</item>
+		<item>Χταπόδι</item>
+		<item>Στρουθοκάμηλος</item>
+		<item>Panda</item>
+		<item>Πανθήρ</item>
+		<item>Παπαγάλος</item>
+		<item>Παγώνι</item>
+		<item>Πελεκάνος</item>
+		<item>πιγκουίνος</item>
+		<item>Πούμα</item>
+		<item>Pig</item>
+		<item>Piranha</item>
+		<item>Πύθων</item>
+		<item>Ψωλή</item>
+		<item>Κουνέλι</item>
+		<item>Ρακούν</item>
+		<item>Πετεινός</item>
+		<item>Κατσαρίδα</item>
+		<item>Αρουραίος</item>
+		<item>Ρινόκερως</item>
+		<item>Σαμούρι</item>
+		<item>Σαλιγκάρι</item>
+		<item>Γλάρος</item>
+		<item>Πρόβατο</item>
+		<item>Καρχαρίας</item>
+		<item>Seahorse </item>
+		<item>Αράχνη</item>
+		<item>Σπουργίτης</item>
+		<item>Φίδι</item>
+		<item>Αστερίας </item>
+		<item>Πελαργός</item>
+		<item>Παλιάνθρωπος</item>
+		<item>Ξιφίας </item>
+		<item>Σκορπιός </item>
+		<item>Καλαμάρι</item>
+		<item>Ταράντουλα</item>
+		<item>Τίγρη</item>
+		<item>Τουρκία</item>
+		<item>Χελώνα</item>
+		<item>Ορνιο</item>
+		<item>Οχιά</item>
+		<item>Μεταξοσκώληκας</item>
+		<item>Φάλαινα</item>
+		<item>Λύκος</item>
+		<item>Σκουλήκι</item>
+		<item>Ζέβρα</item>
+		<item>Μυρμήγκι</item>
+		<item>Αντιλόπη</item>
+		<item>Ανακόνδας</item>
+		<item>Μυστήριο</item>
+		<item>Angus</item>
+		<item>Μέλισσα</item>
+		<item>Πεταλούδα</item>
+
+	</string-array>
+
+
+	<string-array name="animals_turkish">
+	<item>Karınca</item>
+	<item>Antilop</item>
+	<item>Anakonda</item>
+	<item>Karıncayiyen</item>
+	<item>Angus</item>
+	<item>Arı</item>
+	<item>Kelebek</item>
+	<item>Bizon</item>
+	<item>Kuş</item>
+	<item>Yarasa</item>
+	<item>Ayı</item>
+	<item>Kunduz</item>
+	<item>Boğa</item>
+	<item>Kanarya</item>
+	<item>Çita</item>
+	<item>Civciv</item>
+	<item>Bukalemun</item>
+	<item>Karga</item>
+	<item>İnek</item>
+	<item>Çakal</item>
+	<item>Kedi</item>
+	<item>Şempanze</item>
+	<item>Tavuk</item>
+	<item>Yengeç</item>
+	<item>Timsah</item>
+	<item>Geyik</item>
+	<item>Eşek</item>
+	<item>Köpek</item>
+	<item>Yunus</item>
+	<item>Güvercin</item>
+	<item>Ördek</item>
+	<item>Fil</item>
+	<item>Kartal</item>
+	<item>Balık </item>
+	<item>Kurbağa</item>
+	<item>Şahin</item>
+	<item>Sinek</item>
+	<item>Tilki</item>
+	<item>Çekirge</item>
+	<item>Keçi</item>
+	<item>Kaz</item>
+	<item>Zürafa</item>
+	<item>Goril</item>
+	<item>Hamster</item>
+	<item>Şahin</item>
+	<item>At</item>
+	<item>Kirpi</item>
+	<item>Suaygırı</item>
+	<item>Böcek</item>
+	<item>İmpala</item>
+	<item>İguana</item>
+	<item>Çakal</item>
+	<item>Jaguar</item>
+	<item>Denizanası</item>
+	<item>Kanguru</item>
+	<item>Koala</item>
+	<item>Uğurböceği</item>
+	<item>Kuzu</item>
+	<item>Leopar</item>
+	<item>Aslan</item>
+	<item>Kertenkele </item>
+	<item>Istakoz</item>
+	<item>Kırkayak</item>
+	<item>Fare</item>
+	<item>Sivrisinek</item>
+	<item>Maymun</item>
+	<item>Köstebek</item>
+	<item>Katır</item>
+	<item>Ahtapot</item>
+	<item>Devekuşu</item>
+	<item>Panda</item>
+	<item>Panter</item>
+	<item>Papağan</item>
+	<item>Tavuskuşu</item>
+	<item>Pelikan</item>
+	<item>Penguen</item>
+	<item>Puma</item>
+	<item>Domuz</item>
+	<item>Pirana</item>
+	<item>Piton</item>
+	<item>Ağaçkakan</item>
+	<item>Tavşan</item>
+	<item>Rakun</item>
+	<item>Horoz</item>
+	<item>Hamamböceği</item>
+	<item>Sıçan</item>
+	<item>Gergedan</item>
+	<item>Samur</item>
+	<item>Salyangoz</item>
+	<item>Martı</item>
+	<item>Koyun</item>
+	<item>Köpekbalığı</item>
+	<item>Denizatı </item>
+	<item>Örümcek</item>
+	<item>Serçe</item>
+	<item>Yılan</item>
+	<item>Denizyıldızı </item>
+	<item>Leylek</item>
+	<item>Kokarca</item>
+	<item>Kılıöbalığı </item>
+	<item>Akrep </item>
+	<item>Kalamar</item>
+	<item>Tarantula</item>
+	<item>Kaplan</item>
+	<item>Hindi</item>
+	<item>Kaplumbağa</item>
+	<item>Akbaba</item>
+	<item>Engerek</item>
+	<item>İpekböceği</item>
+	<item>Balina</item>
+	<item>Kurt</item>
+	<item>Kurt</item>
+	<item>Zebra</item>
+	<item>Karınca</item>
+	<item>Antilop</item>
+	<item>Anakonda</item>
+	<item>Karıncayiyen</item>
+	<item>Angus</item>
+	<item>Arı</item>
+	<item>Kelebek</item>
+
+	</string-array>
+
+	<string-array name="animals_english">
+		<item>Ant</item>
+		<item>Antelope</item>
+		<item>Anaconda</item>
+		<item>Anteater</item>
+		<item>Angus</item>
+		<item>Bee</item>
+		<item>Butterfly</item>
+		<item>Bison</item>
+		<item>Bird</item>
+        <item>Bat</item>
+        <item>Bear</item>
+        <item>Beaver</item>
+        <item>Bull</item>
+		<item>Canary</item>
+        <item>Cheetah</item>
+        <item>Chick</item>
+        <item>Chameleon</item>
+        <item>Crow</item>
+        <item>Cow</item>
+		<item>Coyote</item>
+        <item>Cat</item>
+        <item>Chimpanzee</item>
+        <item>Chicken</item>
+		<item>Crab</item>
+        <item>Crocodile</item>
+		<item>Deer</item>
+        <item>Donkey</item>
+        <item>Dog</item>
+        <item>Dolphin</item>
+        <item>Dove</item>
+        <item>Duck</item>
+        <item>Elephant</item>
+        <item>Eagle</item>
+        <item>Fish </item>
+        <item>Frog</item>
+        <item>Falcon</item>
+		<item>Fly</item>
+        <item>Fox</item>
+	    <item>Grasshopper</item>
+		<item>Goat</item>
+		<item>Goose</item>
+		<item>Giraffe</item>
+		<item>Gorilla</item>	
+		<item>Hamster</item>
+		<item>Hawk</item>
+		<item>Horse</item>
+		<item>Hedgehog</item>	
+		<item>Hippopotamus</item>	
+		<item>Insect</item>
+		<item>Impala</item>
+		<item>Iguana</item>
+		<item>Jackal</item>
+		<item>Jaguar</item>
+		<item>Jellyfish</item>
+		<item>Kangaroo</item>
+		<item>Koala</item>
+		<item>Ladybug</item>
+		<item>Lamb</item>
+		<item>Leopard</item>
+		<item>Lion</item>
+		<item>Lizard </item>
+		<item>Lobster</item>
+		<item>Millipede</item>
+		<item>Mouse</item>
+		<item>Mosquito</item>
+		<item>Monkey</item>
+		<item>Mole</item>
+		<item>Mule</item>
+		<item>Octopus</item>
+		<item>Ostrich</item>
+		<item>Panda</item>
+		<item>Panther</item>
+		<item>Parrot</item>
+		<item>Peacock</item>
+		<item>Pelican</item>
+		<item>Penguin</item>
+		<item>Puma</item>
+		<item>Pig</item>
+		<item>Piranha</item>
+		<item>Python</item>
+		<item>Pecker</item>
+		<item>Rabbit</item>
+		<item>Raccoon</item>
+		<item>Rooster</item>
+		<item>Roach</item>
+		<item>Rat</item>
+		<item>Rhinoceros</item>
+		<item>Sable</item>
+		<item>Snail</item>
+		<item>Seagull</item>
+		<item>Sheep</item>
+		<item>Shark</item>
+		<item>Seahorse </item>
+		<item>Spider</item>
+		<item>Sparrow</item>
+		<item>Snake</item>
+		<item>Starfish </item>
+		<item>Stork</item>
+		<item>Skunk</item>
+		<item>Swordfish </item>
+		<item>Scorpion </item>
+		<item>Squid</item>
+		<item>Tarantula</item>
+		<item>Tiger</item>
+		<item>Turkey</item>
+		<item>Turtle</item>
+		<item>Vulture</item>
+		<item>Viper</item>
+		<item>Silkworm</item>
+		<item>Whale</item>
+		<item>Wolf</item>
+		<item>Worm</item>
+		<item>Zebra</item>
+		<item>Ant</item>
+		<item>Antelope</item>
+		<item>Anaconda</item>
+		<item>Anteater</item>
+		<item>Angus</item>
+		<item>Bee</item>
+		<item>Butterfly</item>
+
+    </string-array>
+
+
+
+	<string-array name="animals_italian">
+		<item>Formica</item>
+		<item>Antilope</item>
+		<item>Anaconda</item>
+		<item>Formichiere</item>
+		<item>Angus</item>
+		<item>Ape</item>
+		<item>Farfalla</item>
+		<item>Bisonte</item>
+		<item>Uccello</item>
+		<item>Pipistrello</item>
+		<item>Orso</item>
+		<item>Castoro</item>
+		<item>Toro</item>
+		<item>Canarino</item>
+		<item>Ghepardo</item>
+		<item>Pulcino</item>
+		<item>Camaleonte</item>
+		<item>Corvo</item>
+		<item>Mucca</item>
+		<item>Coyote</item>
+		<item>Gatto</item>
+		<item>Scimpanzé</item>
+		<item>Pollo</item>
+		<item>Granchio</item>
+		<item>Coccodrillo</item>
+		<item>Cervo</item>
+		<item>Asino</item>
+		<item>Cane</item>
+		<item>Delfino</item>
+		<item>Colomba</item>
+		<item>Anatra</item>
+		<item>Elefante</item>
+		<item>Aquila</item>
+		<item>Pesce </item>
+		<item>Rana</item>
+		<item>Falco</item>
+		<item>Volare</item>
+		<item>Volpe</item>
+		<item>Cavalletta</item>
+		<item>Capra</item>
+		<item>Oca</item>
+		<item>Giraffa</item>
+		<item>Gorilla</item>
+		<item>Criceto</item>
+		<item>Falco</item>
+		<item>Cavallo</item>
+		<item>Riccio</item>
+		<item>Ippopotamo</item>
+		<item>Insetto</item>
+		<item>Impala</item>
+		<item>Iguana</item>
+		<item>Sciacallo</item>
+		<item>Giaguaro</item>
+		<item>Medusa</item>
+		<item>Canguro</item>
+		<item>Koala</item>
+		<item>Coccinella</item>
+		<item>Agnello</item>
+		<item>Leopardo</item>
+		<item>Leone</item>
+		<item>Lucertola </item>
+		<item>Aragosta</item>
+		<item>Millepiedi</item>
+		<item>Topo</item>
+		<item>Zanzara</item>
+		<item>Scimmia</item>
+		<item>Talpa</item>
+		<item>Mulo</item>
+		<item>Polpo</item>
+		<item>Struzzo</item>
+		<item>Panda</item>
+		<item>Pantera</item>
+		<item>Pappagallo</item>
+		<item>Pavone</item>
+		<item>Pellicano</item>
+		<item>Pinguino</item>
+		<item>Puma</item>
+		<item>Maiale</item>
+		<item>Piranha</item>
+		<item>Pitone</item>
+		<item>Cazzo</item>
+		<item>Coniglio</item>
+		<item>Procione</item>
+		<item>Gallo</item>
+		<item>Scarafaggio</item>
+		<item>Ratto</item>
+		<item>Rinoceronte</item>
+		<item>Zibellino</item>
+		<item>Lumaca</item>
+		<item>Gabbiano</item>
+		<item>Pecora</item>
+		<item>Squalo</item>
+		<item>Cavalluccio marino </item>
+		<item>Ragno</item>
+		<item>Passero</item>
+		<item>Serpente</item>
+		<item>Stella marina </item>
+		<item>Cicogna</item>
+		<item>Puzzola</item>
+		<item>Pesce spada </item>
+		<item>Scorpione </item>
+		<item>Calamaro</item>
+		<item>Tarantola</item>
+		<item>Tigre</item>
+		<item>Tacchino</item>
+		<item>Tartaruga</item>
+		<item>Avvoltoio</item>
+		<item>Vipera</item>
+		<item>Baco da seta</item>
+		<item>Balena</item>
+		<item>Lupo</item>
+		<item>Verme</item>
+		<item>Zebra</item>
+		<item>Formica</item>
+		<item>Antilope</item>
+		<item>Anaconda</item>
+		<item>Formichiere</item>
+		<item>Angus</item>
+		<item>Ape</item>
+		<item>Farfalla</item>
+
+	</string-array>
+
+	<string-array name="animals_spanish">
+		<item>Hormiga</item>
+		<item>Antílope</item>
+		<item>Anaconda</item>
+		<item>Oso hormiguero</item>
+		<item>Angus</item>
+		<item>Abeja</item>
+		<item>Mariposa</item>
+		<item>Bisonte</item>
+		<item>Pájaro</item>
+		<item>Murciélago</item>
+		<item>Oso</item>
+		<item>Castor</item>
+		<item>Toro</item>
+		<item>Canario</item>
+		<item>Leopardo cazador</item>
+		<item>Polluelo</item>
+		<item>Camaleón</item>
+		<item>Cuervo</item>
+		<item>Vaca</item>
+		<item>Coyote</item>
+		<item>Gato</item>
+		<item>Chimpancé</item>
+		<item>Pollo</item>
+		<item>Cangrejo</item>
+		<item>Cocodrilo</item>
+		<item>Ciervo</item>
+		<item>Burro</item>
+		<item>Perro</item>
+		<item>Delfín</item>
+		<item>Paloma</item>
+		<item>Pato</item>
+		<item>Elefante</item>
+		<item>Águila</item>
+		<item>Pez </item>
+		<item>Rana</item>
+		<item>Halcón</item>
+		<item>Volar</item>
+		<item>Zorro</item>
+		<item>Saltamontes</item>
+		<item>Cabra</item>
+		<item>Ganso</item>
+		<item>Jirafa</item>
+		<item>Gorila</item>
+		<item>Hámster</item>
+		<item>Halcón</item>
+		<item>Caballo</item>
+		<item>Erizo</item>
+		<item>Hipopótamo</item>
+		<item>Insecto</item>
+		<item>Impala</item>
+		<item>Iguana</item>
+		<item>Chacal</item>
+		<item>Jaguar</item>
+		<item>Medusa</item>
+		<item>Canguro</item>
+		<item>Coala</item>
+		<item>Mariquita</item>
+		<item>Cordero</item>
+		<item>Leopardo</item>
+		<item>León</item>
+		<item>Lagartija </item>
+		<item>Langosta</item>
+		<item>Milpiés</item>
+		<item>Ratón</item>
+		<item>Mosquito</item>
+		<item>Mono</item>
+		<item>Topo</item>
+		<item>Mula</item>
+		<item>Pulpo</item>
+		<item>Avestruz</item>
+		<item>Panda</item>
+		<item>Pantera</item>
+		<item>Loro</item>
+		<item>Pavo real</item>
+		<item>Pelícano</item>
+		<item>Pingüino</item>
+		<item>Puma</item>
+		<item>Cerdo</item>
+		<item>Piraña</item>
+		<item>Pitón</item>
+		<item>Pájaro carpintero</item>
+		<item>Conejo</item>
+		<item>Mapache</item>
+		<item>Gallo</item>
+		<item>Cucaracha</item>
+		<item>Rata</item>
+		<item>Rinoceronte</item>
+		<item>Sable</item>
+		<item>Caracol</item>
+		<item>Gaviota</item>
+		<item>Oveja</item>
+		<item>Tiburón</item>
+		<item>Caballo de mar </item>
+		<item>Araña</item>
+		<item>Gorrión</item>
+		<item>Serpiente</item>
+		<item>Estrella de mar </item>
+		<item>Cigüeña</item>
+		<item>Zorrillo</item>
+		<item>Pez espada </item>
+		<item>Escorpión </item>
+		<item>Calamar</item>
+		<item>Tarántula</item>
+		<item>Tigre</item>
+		<item>Pavo</item>
+		<item>Tortuga</item>
+		<item>Buitre</item>
+		<item>Víbora</item>
+		<item>Gusano de seda</item>
+		<item>Ballena</item>
+		<item>Lobo</item>
+		<item>Gusano</item>
+		<item>Cebra</item>
+		<item>Hormiga</item>
+		<item>Antílope</item>
+		<item>Anaconda</item>
+		<item>Oso hormiguero</item>
+		<item>Angus</item>
+		<item>Abeja</item>
+		<item>Mariposa</item>
+
+	</string-array>
+
+
+
+	<string-array name="animals_finnish">
+
+
+		<item>Muurahainen</item>
+		<item>Antilooppi</item>
+		<item>Anaconda</item>
+		<item>Muurahaiskarhu</item>
+		<item>Angus</item>
+		<item>Mehiläinen</item>
+		<item>Perhonen</item>
+		<item>Biisoni</item>
+		<item>Lintu</item>
+		<item>Lepakko</item>
+		<item>Karhu</item>
+		<item>Majava</item>
+		<item>Sonni</item>
+		<item>Kanarialintu</item>
+		<item>Gepardi</item>
+		<item>Tipu</item>
+		<item>Kameleontti</item>
+		<item>Varis</item>
+		<item>Lehmä</item>
+		<item>Kojootti</item>
+		<item>Kissa</item>
+		<item>Simpanssi</item>
+		<item>Kana</item>
+		<item>Rapu</item>
+		<item>Krokotiili</item>
+		<item>Peura</item>
+		<item>Aasi</item>
+		<item>Koira</item>
+		<item>Delfiini</item>
+		<item>Kyyhkynen</item>
+		<item>Ankka</item>
+		<item>Norsu-Elefannti</item>
+		<item>Kotka</item>
+		<item>Kala</item>
+		<item>Sammakko</item>
+		<item>Haukka</item>
+		<item>Lentää</item>
+		<item>Kettu</item>
+		<item>Heinäsirkka</item>
+		<item>Vuohi</item>
+		<item>Hanhi</item>
+		<item>Kirahvi</item>
+		<item>Gorilla</item>
+		<item>Hamsteri</item>
+		<item>Haukka</item>
+		<item>Hevonen</item>
+		<item>Siili</item>
+		<item>Virtahepo</item>
+		<item>Hyönteinen</item>
+		<item>Impala</item>
+		<item>Iguana</item>
+		<item>Sakaali</item>
+		<item>Jaguaari</item>
+		<item>Meduusa</item>
+		<item>Kenguru</item>
+		<item>Koala</item>
+		<item>Leppäkerttu</item>
+		<item>Lammas</item>
+		<item>Leopardi</item>
+		<item>Leijona</item>
+		<item>Lisko </item>
+		<item>Hummeri</item>
+		<item>Tuhatjalkainen</item>
+		<item>Hiiri</item>
+		<item>Hyttynen</item>
+		<item>Apina</item>
+		<item>Mooli</item>
+		<item>Muuli</item>
+		<item>Mustekala</item>
+		<item>Strutsi</item>
+		<item>Panda</item>
+		<item>Pantteri</item>
+		<item>Papukaija</item>
+		<item>Riikinkukko</item>
+		<item>Pelikaani</item>
+		<item>Pingviini</item>
+		<item>Puuma</item>
+		<item>Sika</item>
+		<item>Piraija</item>
+		<item>Pytonkäärme</item>
+		<item>Kalu</item>
+		<item>Kani</item>
+		<item>Pesukarhu</item>
+		<item>Kukko</item>
+		<item>Särki</item>
+		<item>Rotta</item>
+		<item>Sarvikuono</item>
+		<item>Soopeli</item>
+		<item>Etana</item>
+		<item>Lokki</item>
+		<item>Lammas</item>
+		<item>Hai</item>
+		<item>Hippokampus</item>
+		<item>Hämähäkki</item>
+		<item>Varpunen</item>
+		<item>Käärme</item>
+		<item>Meritähti </item>
+		<item>Kattohaikara</item>
+		<item>Haisunäätä</item>
+		<item>Miekkakala</item>
+		<item>Skorpioni </item>
+		<item>Kalmari</item>
+		<item>Lintuhämähäkki</item>
+		<item>Tiikeri</item>
+		<item>Kalkuna</item>
+		<item>Kilpikonna</item>
+		<item>Korppikotka</item>
+		<item>Kyykäärme</item>
+		<item>Silkkitoukan</item>
+		<item>Valas</item>
+		<item>Susi</item>
+		<item>Mato</item>
+		<item>Seepra</item>
+		<item>Muurahainen</item>
+		<item>Antilooppi</item>
+		<item>Anaconda</item>
+		<item>Muurahaiskarhu</item>
+		<item>Angus</item>
+		<item>Mehiläinen</item>
+		<item>Perhonen</item>
+
+	</string-array>
+
+
+	<string-array name="animals_german">
+		<item>Ameise</item>
+		<item>Antilope</item>
+		<item>Anakonda</item>
+		<item>Ameisenbär</item>
+		<item>Angus</item>
+		<item>Biene</item>
+		<item>Schmetterling</item>
+		<item>Bison</item>
+		<item>Vogel</item>
+		<item>Fledermaus</item>
+		<item>Bär</item>
+		<item>Biber</item>
+		<item>Stier</item>
+		<item>Kanarienvogel</item>
+		<item>Gepard</item>
+		<item>Küken</item>
+		<item>Chamäleon</item>
+		<item>Krähe</item>
+		<item>Kuh</item>
+		<item>Kojote</item>
+		<item>Katze</item>
+		<item>Schimpanse</item>
+		<item>Hähnchen</item>
+		<item>Krabbe</item>
+		<item>Krokodil</item>
+		<item>Hirsch</item>
+		<item>Esel</item>
+		<item>Hund</item>
+		<item>Delphin</item>
+		<item>Taube</item>
+		<item>Ente</item>
+		<item>Elefant</item>
+		<item>Adler</item>
+		<item>Fisch </item>
+		<item>Frosch</item>
+		<item>Falke</item>
+		<item>Fliegen</item>
+		<item>Fuchs</item>
+		<item>Heuschrecke</item>
+		<item>Ziege</item>
+		<item>Gans</item>
+		<item>Giraffe</item>
+		<item>Gorilla</item>
+		<item>Hamster</item>
+		<item>Falke</item>
+		<item>Pferd</item>
+		<item>Igel</item>
+		<item>Nilpferd</item>
+		<item>Insekt</item>
+		<item>Impala</item>
+		<item>Leguan</item>
+		<item>Schakal</item>
+		<item>Jaguar</item>
+		<item>Qualle</item>
+		<item>Känguru</item>
+		<item>Koala</item>
+		<item>Marienkäfer</item>
+		<item>Lamm</item>
+		<item>Leopard</item>
+		<item>Löwe</item>
+		<item>Eidechse </item>
+		<item>Hummer</item>
+		<item>Tausendfüßler</item>
+		<item>Maus</item>
+		<item>Moskito</item>
+		<item>Affe</item>
+		<item>Maulwurf</item>
+		<item>Maultier</item>
+		<item>Tintenfisch</item>
+		<item>Strauß</item>
+		<item>Panda</item>
+		<item>Panther</item>
+		<item>Papagei</item>
+		<item>Pfau</item>
+		<item>Pelikan</item>
+		<item>Pinguin</item>
+		<item>Puma</item>
+		<item>Schwein</item>
+		<item>Piranha</item>
+		<item>Python</item>
+		<item>Pecker</item>
+		<item>Hase</item>
+		<item>Waschbär</item>
+		<item>Hahn</item>
+		<item>Plötze</item>
+		<item>Ratte</item>
+		<item>Nashorn</item>
+		<item>Zobel</item>
+		<item>Schnecke</item>
+		<item>Möwe</item>
+		<item>Schaf</item>
+		<item>Hai</item>
+		<item>Seepferdchen </item>
+		<item>Spinne</item>
+		<item>Spatz</item>
+		<item>Schlange</item>
+		<item>Seestern </item>
+		<item>Storch</item>
+		<item>Skunk</item>
+		<item>Schwertfisch </item>
+		<item>Skorpion </item>
+		<item>Tintenfisch</item>
+		<item>Tarantel</item>
+		<item>Tiger</item>
+		<item>Truthahn</item>
+		<item>Schildkröte</item>
+		<item>Geier</item>
+		<item>Viper</item>
+		<item>Seidenraupe</item>
+		<item>Wal</item>
+		<item>Wolf</item>
+		<item>Wurm</item>
+		<item>Zebra</item>
+		<item>Ameise</item>
+		<item>Antilope</item>
+		<item>Anakonda</item>
+		<item>Ameisenbär</item>
+		<item>Angus</item>
+		<item>Biene</item>
+		<item>Schmetterling</item>
+
+	</string-array>
+
+	<string-array name="animals_russian">
+		<item>Муравей</item>
+		<item>Aнтилопа</item>
+		<item>Aнаконда</item>
+		<item>Муравьед</item>
+		<item>ангус</item>
+		<item>пчелка</item>
+		<item>бабочка</item>
+		<item>бизон</item>
+		<item>птица</item>
+		<item>Летучая мышь</item>
+		<item>нести</item>
+		<item>бобр</item>
+		<item>бык</item>
+		<item>канарейка</item>
+		<item>гепард</item>
+		<item>птенец</item>
+		<item>хамелеон</item>
+		<item>ворона</item>
+		<item>корова</item>
+		<item>койот</item>
+		<item>Кошка</item>
+		<item>Шимпанзе</item>
+		<item>Курица</item>
+		<item>Краб</item>
+		<item>Крокодил</item>
+		<item>олень</item>
+		<item>осел</item>
+		<item>Собака</item>
+		<item>дельфин</item>
+		<item>голубка</item>
+		<item>Утка</item>
+		<item>слон</item>
+		<item>орел</item>
+		<item>Рыба </item>
+		<item>Лягушка</item>
+		<item>сокол</item>
+		<item>летать</item>
+		<item>Лиса</item>
+		<item>Кузнечик</item>
+		<item>Козел</item>
+		<item>Гусь</item>
+		<item>Жирафа</item>
+		<item>горилла</item>
+		<item>хомяк</item>
+		<item>ястреб</item>
+		<item>лошадь</item>
+		<item>Ежик</item>
+		<item>Бегемот</item>
+		<item>Насекомое</item>
+		<item>импала</item>
+		<item>Игуана</item>
+		<item>шакал</item>
+		<item>ягуар</item>
+		<item>медуза</item>
+		<item>Кенгуру</item>
+		<item>коала</item>
+		<item>Божья коровка</item>
+		<item>ягненок</item>
+		<item>леопард</item>
+		<item>лев</item>
+		<item>ящерица </item>
+		<item>Омар</item>
+		<item>многоножка</item>
+		<item>мышь</item>
+		<item>комар</item>
+		<item>Обезьяна</item>
+		<item>Моль</item>
+		<item>мул</item>
+		<item>Осьминог</item>
+		<item>страус</item>
+		<item>Панда</item>
+		<item>пантера</item>
+		<item>Попугай</item>
+		<item>павлин</item>
+		<item>Пеликан</item>
+		<item>пингвин</item>
+		<item>пума</item>
+		<item>свинья</item>
+		<item>пиранья</item>
+		<item>питон</item>
+		<item>клюв</item>
+		<item>Кролик</item>
+		<item>енот</item>
+		<item>Петух</item>
+		<item>плотва</item>
+		<item>крысиный</item>
+		<item>Носорог</item>
+		<item>соболь</item>
+		<item>улитка</item>
+		<item>чайка</item>
+		<item>Овца</item>
+		<item>Акула</item>
+		<item>конек </item>
+		<item>паук</item>
+		<item>Воробей</item>
+		<item>змея</item>
+		<item>морская звезда </item>
+		<item>Аист</item>
+		<item>скунс</item>
+		<item>рыба-меч </item>
+		<item>скорпион </item>
+		<item>Кальмар</item>
+		<item>тарантул</item>
+		<item>тигр</item>
+		<item>Турция</item>
+		<item>черепаха</item>
+		<item>стервятник</item>
+		<item>гадюка</item>
+		<item>шелкопряд</item>
+		<item>кит</item>
+		<item>волк</item>
+		<item>червяк</item>
+		<item>зебра</item>
+		<item>Муравей</item>
+		<item>Aнтилопа</item>
+		<item>Aнаконда</item>
+		<item>Муравьед</item>
+		<item>ангус</item>
+		<item>пчелка</item>
+		<item>бабочка</item>
+
+	</string-array>
+
+
+
+
+
+	<string-array name="animals_chinese">
+		<item>蚂蚁</item>
+		<item>羚羊</item>
+		<item>蟒蛇</item>
+		<item>食蚁兽</item>
+		<item>安格斯</item>
+		<item>蜜蜂</item>
+		<item>蝴蝶</item>
+		<item>野牛</item>
+		<item>鸟</item>
+		<item>蝙蝠</item>
+		<item>熊</item>
+		<item>海狸</item>
+		<item>公牛</item>
+		<item>加纳利</item>
+		<item>猎豹</item>
+		<item>小鸡</item>
+		<item>变色龙</item>
+		<item>乌鸦</item>
+		<item>牛</item>
+		<item>狼</item>
+		<item>猫</item>
+		<item>黑猩猩</item>
+		<item>鸡</item>
+		<item>螃蟹</item>
+		<item>鳄鱼</item>
+		<item>鹿</item>
+		<item>驴</item>
+		<item>狗</item>
+		<item>海豚</item>
+		<item>鸽子</item>
+		<item>鸭</item>
+		<item>象</item>
+		<item>鹰</item>
+		<item>鱼 </item>
+		<item>青蛙</item>
+		<item>鹘</item>
+		<item>飞</item>
+		<item>狐狸</item>
+		<item>蚱蜢</item>
+		<item>山羊</item>
+		<item>鹅</item>
+		<item>长颈鹿</item>
+		<item>大猩猩</item>
+		<item>仓鼠</item>
+		<item>鹰</item>
+		<item>马</item>
+		<item>猬</item>
+		<item>河马</item>
+		<item>昆虫</item>
+		<item>黑斑羚</item>
+		<item>鬣蜥</item>
+		<item>狐狼</item>
+		<item>捷豹</item>
+		<item>海蜇</item>
+		<item>袋鼠</item>
+		<item>考拉</item>
+		<item>瓢虫</item>
+		<item>羊肉</item>
+		<item>豹</item>
+		<item>狮子</item>
+		<item>蜥蜴 </item>
+		<item>龙虾</item>
+		<item>千足虫</item>
+		<item>老鼠</item>
+		<item>蚊子</item>
+		<item>猴</item>
+		<item>痣</item>
+		<item>马骡</item>
+		<item>章鱼</item>
+		<item>鸵鸟</item>
+		<item>熊猫</item>
+		<item>豹</item>
+		<item>鹦鹉</item>
+		<item>孔雀</item>
+		<item>鹈</item>
+		<item>企鹅</item>
+		<item>美洲狮</item>
+		<item>猪</item>
+		<item>食人鱼</item>
+		<item>蟒蛇</item>
+		<item>啄木鸟</item>
+		<item>兔子</item>
+		<item>狸</item>
+		<item>公鸡</item>
+		<item>蟑螂</item>
+		<item>鼠</item>
+		<item>犀牛</item>
+		<item>黑貂</item>
+		<item>蜗牛</item>
+		<item>海鸥</item>
+		<item>羊</item>
+		<item>鲨鱼</item>
+		<item>海马 </item>
+		<item>蜘蛛</item>
+		<item>麻雀</item>
+		<item>蛇</item>
+		<item>海星 </item>
+		<item>鹳</item>
+		<item>臭鼬</item>
+		<item>旗鱼 </item>
+		<item>蝎 </item>
+		<item>乌贼</item>
+		<item>狼蛛</item>
+		<item>虎</item>
+		<item>火鸡</item>
+		<item>龟</item>
+		<item>秃鹰</item>
+		<item>毒蛇</item>
+		<item>蚕</item>
+		<item>鲸</item>
+		<item>狼</item>
+		<item>虫</item>
+		<item>斑马</item>
+		<item>蚂蚁</item>
+		<item>羚羊</item>
+		<item>蟒蛇</item>
+		<item>食蚁兽</item>
+		<item>安格斯</item>
+		<item>蜜蜂</item>
+		<item>蝴蝶</item>
+
+	</string-array>
+
+
+</resources>

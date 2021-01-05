@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/language_layaout"
+    android:orientation="vertical"
+    android:layout_width="250dp"
+    android:layout_height="350dp"
+    android:layout_gravity="center"
+    android:background="@drawable/custom_play_button"
+    android:gravity="center">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:scrollbars="vertical"
+        android:gravity="center">
+
+    <TextView
+        android:id="@+id/selectText"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="14sp"
+        android:background="@drawable/giris_baslik_text"
+        android:textColor="@color/colorWhite"
+        android:gravity="center"
+        android:text="Select Your Language" />
+
+    <Button
+        android:id="@+id/english"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="12sp"
+        android:background="@drawable/custom_button_tasarim_selector1"
+        android:textColor="@color/colorWhite"
+        android:text="ENGLISH" />
+
+    <Button
+        android:id="@+id/finnish"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="12sp"
+        android:background="@drawable/custom_button_tasarim_selector2"
+        android:textColor="@color/colorWhite"
+        android:text="FINNISH"/>
+
+        <Button
+            android:id="@+id/turkish"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="12sp"
+            android:background="@drawable/custom_button_tasarim_selector3"
+            android:textColor="@color/colorWhite"
+            android:text="ENGLISH" />
+
+        <Button
+            android:id="@+id/german"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="12sp"
+            android:background="@drawable/custom_button_tasarim_selector4"
+            android:textColor="@color/colorWhite"
+            android:text="TURKISH"/>
+
+        <Button
+            android:id="@+id/spanish"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="12sp"
+            android:background="@drawable/custom_button_tasarim_selector1"
+            android:textColor="@color/colorWhite"
+            android:text="SPANISH" />
+
+        <Button
+            android:id="@+id/italian"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="12sp"
+            android:background="@drawable/custom_button_tasarim_selector2"
+            android:textColor="@color/colorWhite"
+            android:text="ITALIAN"/>
+
+
+            </LinearLayout>
+    </ScrollView>
+ </LinearLayout>
